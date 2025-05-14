@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.naive_bayes import GaussianNB
 from sklearn.preprocessing import StandardScaler
